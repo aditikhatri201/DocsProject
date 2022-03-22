@@ -59,15 +59,3 @@ NODEJS,Firebase
 i) Used Heroku for CI/CD deployment <br>
 ii) Balsamiq cloud tool to design wireframe of pages
  
-
-## Contributors:
-
-<table>
-	<tr>
-		<td>
-<a href="https://github.com/YASHIKA791/Walkover_DocsProject/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YASHIKA791/Walkover_DocsProject" />
-</a>
-		</td>
-	</tr>
-</table>
