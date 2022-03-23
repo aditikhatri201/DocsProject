@@ -8,7 +8,6 @@
 <p align="center"> A doc platform where organisation can keep all work related docs in single workplace.</p>
 <p align="center">
 <a href="https://github.com/aditikhatri201/DocsProject/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aditikhatri201/DocsProject"></a>
-<a href="https://github.com/aditikhatri201/DocsProject/pulls"><img src="https://img.shields.io/github/contributors/aditikhatri201/DocsProject" alt="Pull Requests Badge"/></a>
 </p>
  
 ## Table of Contents
