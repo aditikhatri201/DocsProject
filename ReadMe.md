@@ -58,3 +58,7 @@ NODEJS,Firebase
 - Other tools and platforms : <br>
 i) Used Heroku for CI/CD deployment <br>
 ii) Balsamiq cloud tool to design wireframe of pages
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> fc2d404ab805948600e5ffb2692616616c14e6a7
